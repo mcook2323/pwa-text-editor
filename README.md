@@ -71,4 +71,4 @@ Below are some usage instructions for Super Text Editor:
    ![Site](./Screenshot%202024-03-04%20at%202.15.43%20PM%20(2).png)
 
    ## Live Link
-   ![](https://pwa-text-editor-f39y.onrender.com)
+   [Llive Link](https://pwa-text-editor-f39y.onrender.com)
